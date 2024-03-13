@@ -4,7 +4,7 @@ title: DEMANES
 description: Design, Monitoring and Operation of Adaptive Networked Embedded Systems
 img: assets/img/3.jpg
 importance: 1
-category: research
+category: work
 giscus_comments: true
 ---
 
