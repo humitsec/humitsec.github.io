@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: DEMETER
+description: Building an Interoperable, Data-Driven, Innovative and Sustainable European Agri-Food Sector
 img: assets/img/12.jpg
 importance: 1
 category: work
