@@ -1,7 +1,7 @@
 ---
 layout: page
-title: DEMETER
-description: Building an Interoperable, Data-Driven, Innovative and Sustainable European Agri-Food Sector
+title: WoO
+description: Web of Objects
 img: assets/img/12.jpg
 importance: 1
 category: work
